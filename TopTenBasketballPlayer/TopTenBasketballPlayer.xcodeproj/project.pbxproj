@@ -62,7 +62,6 @@
 				24A3CC012A78144F00E0AF76 /* PersonalPlayerScreen.swift */,
 				24657D222A85190000B3B8D8 /* StartCollectionViewCell.swift */,
 				24657D242A851C5400B3B8D8 /* StartScreenCollection.swift */,
-				24B8D3C82A7BD6730084A4D3 /* NetWorking */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -89,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				24A3CBED2A7802E200E0AF76 /* TopTenBasketballPlayerApp.swift */,
+				24B8D3C82A7BD6730084A4D3 /* NetWorking */,
 				24A3CBF12A7802E300E0AF76 /* Assets.xcassets */,
 				24A3CBF32A7802E300E0AF76 /* Preview Content */,
 			);
